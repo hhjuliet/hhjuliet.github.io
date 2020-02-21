@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://hhjuliet.github.io/myblog
-url: https://hhjuliet.github.io/myblog
+baseurl:
+url: 
 date_format: "ordinal"
 title: coder_in_thought
 subtitle: "学习 思考"
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: hhjuliet/hhjuliet.github.io
 
 # ---------------- #
 #      Comments    #
