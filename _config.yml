@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
+url: https://hhjuliet.github.io/myblog
 date_format: "ordinal"
 title: coder_in_thought
 subtitle: "学习 思考"
