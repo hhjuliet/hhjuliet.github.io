@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: /myblog
+baseurl:
 url: https://hhjuliet.github.io/myblog
 date_format: "ordinal"
 title: coder_in_thought
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: hhjuliet/hhjuliet.github.io
+repository: hhjuliet/hhjuliet.github.io/myblog
 
 # ---------------- #
 #      Comments    #
