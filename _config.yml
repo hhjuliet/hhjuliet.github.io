@@ -4,10 +4,10 @@
 baseurl:
 url: https://hhjuliet.github.io
 date_format: "ordinal"
-title: coder_in_thought
+title: juliet_caicai
 subtitle: "学习 思考"
-description: "Juliet's blog"
-keywords: Juliet
+description: "Juliet_caicai's blog"
+keywords: Juliet_caicai
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
